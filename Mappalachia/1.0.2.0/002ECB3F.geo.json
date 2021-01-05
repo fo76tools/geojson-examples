@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"referenceFormID":"002ECB3F","primitiveShape":"Box","boundX":516,"boundY":1116},"geometry":{"type":"Polygon","coordinates":[[-143109,-146434],[-142593,-146434],[-143109,-145318],[-142593,-145318]]}}
+{"type":"Feature","properties":{"referenceFormID":"002ECB3F","primitiveShape":"Box","boundX":516,"boundY":1116},"geometry":{"type":"Polygon","coordinates":[[[-143109,-146434],[-142593,-146434],[-142593,-145318],[-143109,-145318],[-143109,-146434]]]}}
