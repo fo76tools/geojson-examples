@@ -1,1 +1,1 @@
-{"type":"Feature","properties":{"referenceFormID":"000347A1","primitiveShape":"Sphere","boundX":12000,"boundY":12000},"geometry":{"type":"Point","coordinates":[13512,-23367]}}
+{"type":"Feature","properties":{"referenceFormID":"000347A1","primitiveShape":"Sphere","boundX":12000,"boundY":12000},"geometry":{"type":"Polygon","coordinates":[[[13512,-35367],[21997.32,-31852.32],[25512,-23367],[21997.32,-14881.68],[13512,-11367],[5026.68,-14881.68],[1512,-23367],[5026.68,-31852.32],[13512,-35367]]]}}
